@@ -21,7 +21,7 @@ const Home = () => {
       <section className="p-0 hero__slider-section">
         <HeroSlider />
 
-        <div className="hero__form">
+        {/* <div className="hero__form">
           <Container>
             <Row className="form__row">
               <Col lg="4" md="4">
@@ -31,11 +31,11 @@ const Home = () => {
               </Col>
 
               <Col lg="8" md="8" sm="12">
-                <FindCarForm />
+                <FindCarForm /> 
               </Col>
             </Row>
           </Container>
-        </div>
+        </div>*/}
       </section>
       {/* =========== about section ================ */}
       <AboutSection />
@@ -67,10 +67,10 @@ const Home = () => {
           </Row>
         </Container>
       </section>
-      {/* =========== become a driver section ============ */}
+      {/* =========== become a driver section ============ 
       <BecomeDriverSection />
 
-      {/* =========== testimonial section =========== */}
+      =========== testimonial section =========== 
       <section>
         <Container>
           <Row>

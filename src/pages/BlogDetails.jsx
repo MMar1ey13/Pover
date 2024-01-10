@@ -42,7 +42,7 @@ const BlogDetails = () => {
                   </span>
                 </div>
 
-                <p className="section__description">{blog.description}</p>
+              
                 <h6 className="ps-5 fw-normal">
                   <blockquote className="fs-4">{blog.quote}</blockquote>
                 </h6>
@@ -64,7 +64,7 @@ const BlogDetails = () => {
                     </p>
 
                     <span className="replay d-flex align-items-center gap-1">
-                      <i class="ri-reply-line"></i> Replay
+                      <i class="ri-reply-line"></i> Reply
                     </span>
                   </div>
                 </div>
