@@ -1,10 +1,10 @@
 // import all images from assets/images directory
-import img01 from "../all-images/cars-img/img01.jpg";
-import img03 from "../all-images/cars-img/bmw-offer.png";
-import img05 from "../all-images/cars-img/offer-toyota.png";
-import img06 from "../all-images/cars-img/mercedes-offer.png";
-import img07 from "../all-images/cars-img/toyota-offer-2.png";
-import img08 from "../all-images/cars-img/mercedes-offer.png";
+import img01 from "../all-images/cars-img/2.jpg";
+import img02 from "../all-images/cars-img/5.jpg";
+import img03 from "../all-images/cars-img/1.jpg";
+import img04 from "../all-images/cars-img/3.jpg";
+import img05 from "../all-images/cars-img/4.jpg";
+import img06 from "../all-images/cars-img/6.jpg";
 
 const carData = [
   {
@@ -28,7 +28,7 @@ const carData = [
     brand: "RANGE ROVER",
     rating: 112,
     carName: "RANGE ROVER",
-    imgUrl: img03,
+    imgUrl: img02,
     model: "Sports",
     price: 30000,
     speed: "Yr.2017",
@@ -44,7 +44,7 @@ const carData = [
     brand: "MERCEDES",
     rating: 94,
     carName: "MERCEDES BENZ",
-    imgUrl: img05,
+    imgUrl: img03,
     model: "G350D",
     price: 30000,
     speed: "2017",
@@ -60,7 +60,7 @@ const carData = [
     brand: "LEXUS",
     rating: 119,
     carName: "LEXUS 570",
-    imgUrl: img06,
+    imgUrl: img04,
     model: "White",
     price: 15000,
     speed: "2016",
@@ -76,7 +76,7 @@ const carData = [
     brand: "LEXUS",
     rating: 82,
     carName: "LEXUS 570",
-    imgUrl: img07,
+    imgUrl: img05,
     model: "Black",
     price: 9000,
     speed: "2016",
@@ -90,13 +90,13 @@ const carData = [
 
   {
     id: 6,
-    brand: "NISSAN",
+    brand: "Volkswagen",
     rating: 52,
-    carName: "NISSAN X-TRAIL",
-    imgUrl: img08,
+    carName: "VW TIGUAN",
+    imgUrl: img06,
     model: "Mini SUV",
     price: 9000,
-    speed: "20kmpl",
+    speed: "2017",
     gps: "GPS Navigation",
     seatType: "Heated seats",
     automatic: "Automatic",
