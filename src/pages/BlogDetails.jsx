@@ -58,7 +58,7 @@ const BlogDetails = () => {
                     <h6 className=" fw-bold">David Visa</h6>
                     <p className="section__description mb-0">14 July, 2022</p>
                     <p className="section__description">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                      Lore ipsum dolor sit amet consectetur adipisicing elit.
                       Eos nobis totam eius laborum molestias itaque minima
                       distinctio, quae velit tempore!
                     </p>

@@ -28,4 +28,4 @@ const BecomeDriverSection = () => {
   );
 };
 
-export default BecomeDriverSection;
+export default BecomeDriverSection; 

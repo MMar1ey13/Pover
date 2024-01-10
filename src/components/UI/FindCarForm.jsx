@@ -29,8 +29,8 @@ const FindCarForm = () => {
         </FormGroup>
         <FormGroup className="select__group">
           <select>
-            <option value="ac">AC Car</option>
-            <option value="non-ac">Non AC Car</option>
+            <option value="ac">Automatic Transmission</option>
+            <option value="non-ac">Manual Transmission</option>
           </select>
         </FormGroup>
 

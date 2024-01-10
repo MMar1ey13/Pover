@@ -28,21 +28,20 @@ const About = () => {
             <Col lg="6" md="6" sm="12">
               <div className="about__page-content">
                 <h2 className="section__title">
-                  We Are Committed To Provide Safe Ride Solutions
+                  We smoothen your car owning experience.
                 </h2>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  Safety First: At Pover, our commitment to providing safe ride solutions is unwavering. 
+                  We prioritize your well-being on the road, ensuring you travel with confidence and peace of mind. 
+                  Book with us today for a journey that blends comfort, reliability, and safety seamlessly.
                 </p>
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                  Your Trusted Travel Partner: When you choose Pover, 
+                  you're not just renting a car; you're embracing a safe travel experience. 
+                  Our dedication to delivering safe ride solutions goes beyond words; it's woven into every aspect of our service, 
+                  from vehicle maintenance to customer care. Trust us for a journey that's as secure as it is enjoyable.
                 </p>
 
                 <div className=" d-flex align-items-center gap-3 mt-4">
@@ -52,7 +51,7 @@ const About = () => {
 
                   <div>
                     <h6 className="section__subtitle">Need Any Help?</h6>
-                    <h4>+00123456789</h4>
+                    <h4>0729523826</h4>
                   </div>
                 </div>
               </div>
