@@ -49,7 +49,7 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              It's Never A Bad Idea Too Buy A Car.
+              It's Never A Bad Idea To Buy A Car.
             </p>
           </Col>
 
